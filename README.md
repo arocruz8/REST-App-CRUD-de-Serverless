@@ -1,3 +1,8 @@
+Prerequisitos:
+1. Tener un cuenta en AWS
+2. Crear un usuario y un rol
+3. Dar permisos para trabajar con  DynamoDB
+
 COMANDOS PARA CORRER EL REST APP de Serverless
 1. buscar la ubicacion de la carpeta del proyecto
 2. usar el comando de serverless deploy
