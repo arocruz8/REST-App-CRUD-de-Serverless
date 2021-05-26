@@ -15,3 +15,5 @@ POST -> https://lsszv7bw66.execute-api.us-east-2.amazonaws.com/dev/todos
 PUT -> https://lsszv7bw66.execute-api.us-east-2.amazonaws.com/dev/todos/id
 
 id del put es de cualquier elemento de la tabla de DynamoDB
+
+Link del video consultado: https://www.youtube.com/watch?v=2hwzFMoj-dA&feature=youtu.be&ab_channel=BridgingCode
